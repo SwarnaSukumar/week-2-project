@@ -191,7 +191,7 @@ p{
     
 }
 .banner_wrapper{
-    background-image: url('/images/lords-bg.png');
+    background-image: url("/images/lords-bg.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
